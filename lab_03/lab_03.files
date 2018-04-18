@@ -1,0 +1,9 @@
+analisis.c
+analisis.h
+arrstack.c
+arrstack.h
+interface.c
+interface.h
+liststack.c
+liststack.h
+main.c

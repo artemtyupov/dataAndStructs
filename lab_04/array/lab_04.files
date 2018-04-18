@@ -1,0 +1,8 @@
+automat.c
+automat.h
+main.c
+queue.c
+queue.h
+test.c
+tick.c
+tick.h
